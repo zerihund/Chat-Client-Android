@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HeyYou</string>
+    <string name="editText">Nick name</string>
+    <string name="btnEnter">Enter Chat Room</string>
+    <string name="photo_button">Your Photo</string>
+    <string name="btnP">photo</string>
+    <string name="btnPhoto">Photo</string>
+    <string name="loginHint">Enter Your User Name</string>
+    <string name="btnLogin">Enter Chat Room</string>
+    <string name="edit_chat">Type your message here</string>
+    <string name="txtView_login">HeyYou</string>
+    <string name="msgSend">Send</string>
+    <string name="userText">Enter User Name</string>
+    <string name="my_message">hi there</string>
+    <string name="my_time">12:00</string>
+    <string name="other_message">whats app </string>
+    <string name="other_tme">6:00</string>
+    <string name="other_user">user</string>
+    <string name="action_user">Users</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_back">back</string>
+    <string name="top">Top Chatter</string>
+    <string name="backward">Back</string>
+</resources>

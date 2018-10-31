@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/user_action"
+        android:icon="@mipmap/user_icon"
+        android:title="@string/action_user"
+
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/logout_action"
+        android:icon="@mipmap/logout_icon"
+        android:title="@string/action_logout"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/top_action"
+        android:title="@string/top"
+        app:showAsAction="never" />
+
+
+</menu>
